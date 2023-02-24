@@ -2,11 +2,12 @@
 
 # Goal
 
-The goal of this project is making inference on products calories of a real McDonald's menu.  
-Specifically, we formulated three different models:
-1. Linear regression model to explain calories as a function of other covariates
-2. Anova model to assess whether products categories affect caloric intake 
-3. Logit regression model to find the probability that products with a certain amount of calories belong to the class of products with the highest caloric intake
+The goal of this project is developing a model to predict and explain the price of houses in King County, Washington, following a nonparametric approach.
+
+The work is carried out in this way:
+1. Preprocessing and outlier detection through bagplots based on the Tukey depth
+2. Testing the significance of some covariates on price by permutational T and permutational ANOVA 
+3. Fitting a nonparametric regression model
 
 # Authors
 
