@@ -1,5 +1,3 @@
-#setwd("C:/Users/panze/Desktop/NONPARAM STATISTICS/PROGETTO")
-
 library(MASS)
 library(rgl)
 library(DepthProc)
