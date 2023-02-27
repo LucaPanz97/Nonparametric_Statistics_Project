@@ -1,5 +1,3 @@
-#setwd("C:/Users/panze/Desktop/NONPARAM STATISTICS/PROGETTO_GITHUB/NPS")
-
 library(MASS)
 library(rgl)
 library(DepthProc)
