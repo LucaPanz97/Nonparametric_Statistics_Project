@@ -1,4 +1,3 @@
-rm(list=ls())
 library(MASS)
 library(car)
 library(Metrics)
