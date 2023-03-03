@@ -5,7 +5,7 @@
 The goal of this project is developing a model to predict and explain the price of houses in King County, Washington, following a nonparametric approach.
 
 The work is carried out in this way:
-1. Preprocessing and outlier detection through bagplots based on the Tukey depth
+1. Preprocessing and outlier detection through bagplots based on Tukey depth
 2. Testing the significance of some covariates on price by permutational T and permutational ANOVA 
 3. Fitting nonparametric regression models such as GAMs with splines and robust regression models
 
