@@ -1,4 +1,4 @@
-# NonParametric_Statistics_Project 
+# Nonparametric_Statistics_Project 
 
 # Goal
 
