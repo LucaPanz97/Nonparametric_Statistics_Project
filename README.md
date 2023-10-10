@@ -4,10 +4,10 @@
 
 The goal of this project is developing a model to predict and explain the price of houses in King County, Washington, following a nonparametric approach.
 
-The work is carried out in this way:
-1. Preprocessing and outlier detection through bagplots based on Tukey depth
-2. Testing the significance of some covariates on price by permutational T and permutational ANOVA 
-3. Fitting nonparametric regression models such as GAMs with splines and robust regression models
+Our work unfolds in the following steps:
+1. Preprocessing and Outlier Detection: we start by preparing the data and identifying outliers using bagplots based on Tukey depth. This crucial step ensures that our analysis is based on clean and reliable data.
+2. Testing Covariate Significance: we investigate the impact of various covariates on house prices. We employ permutational T-tests and permutational ANOVA to determine the significance of these factors, shedding light on what truly drives house prices in this region.
+3. Nonparametric Regression Modeling: we employ powerful nonparametric regression techniques. We leverage the flexibility of Generalized Additive Models (GAMs) with splines to capture complex relationships in the data. Additionally, we explore Robust Regression Models to ensure the stability and accuracy of our predictions.
 
 # Authors
 
