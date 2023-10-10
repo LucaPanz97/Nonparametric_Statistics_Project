@@ -21,7 +21,7 @@ Nick Usubelli    *Politecnico di Milano - MSc in Statistical Learning, Mathemati
 
 # Acknowledgments
 
-The project was carried out during 'Nonparametric Statistics' course of Statistical Learning at PoliMi, 2022. 
+The project was carried out during 'Nonparametric Statistics' course of Statistical Learning at PoliMi, 2021. 
 
 Special thanks to Prof. Vantini, Prof.ssa Ieva and Prof. Cappozzo, under whose guidance all the material was developed.
 
